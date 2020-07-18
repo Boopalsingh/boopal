@@ -2,4 +2,4 @@ Facial Emotion detections - Created a general CNN architecture and predicted the
 1. Explored the OpenCV - VideoCapture Techniques
 2. Explored to save the model and weights
 3. Visulization Techinques.
-Source - Kaggle FER datasets. Haarcascadeclassifier.xml
+Source - Kaggle FER datasets and Haarcascadeclassifier.xml to detect the face axis.
